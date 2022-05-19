@@ -1,0 +1,15 @@
+/home/anliben/csharp/bin/Debug/net6.0/csharp
+/home/anliben/csharp/bin/Debug/net6.0/csharp.deps.json
+/home/anliben/csharp/bin/Debug/net6.0/csharp.runtimeconfig.json
+/home/anliben/csharp/bin/Debug/net6.0/csharp.dll
+/home/anliben/csharp/bin/Debug/net6.0/ref/csharp.dll
+/home/anliben/csharp/bin/Debug/net6.0/csharp.pdb
+/home/anliben/csharp/obj/Debug/net6.0/csharp.csproj.AssemblyReference.cache
+/home/anliben/csharp/obj/Debug/net6.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/anliben/csharp/obj/Debug/net6.0/csharp.AssemblyInfoInputs.cache
+/home/anliben/csharp/obj/Debug/net6.0/csharp.AssemblyInfo.cs
+/home/anliben/csharp/obj/Debug/net6.0/csharp.csproj.CoreCompileInputs.cache
+/home/anliben/csharp/obj/Debug/net6.0/csharp.dll
+/home/anliben/csharp/obj/Debug/net6.0/ref/csharp.dll
+/home/anliben/csharp/obj/Debug/net6.0/csharp.pdb
+/home/anliben/csharp/obj/Debug/net6.0/csharp.genruntimeconfig.cache
